@@ -1,0 +1,13 @@
+{
+  "/_not-found/page": "app/_not-found/page.js",
+  "/favicon.ico/route": "app/favicon.ico/route.js",
+  "/about/page": "app/about/page.js",
+  "/contact/page": "app/contact/page.js",
+  "/bootstrap/page": "app/bootstrap/page.js",
+  "/mern/page": "app/mern/page.js",
+  "/tailwindcss/page": "app/tailwindcss/page.js",
+  "/mywork/page": "app/mywork/page.js",
+  "/wordpress/page": "app/wordpress/page.js",
+  "/page": "app/page.js",
+  "/wordpress1/page": "app/wordpress1/page.js"
+}

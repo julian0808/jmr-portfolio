@@ -1,0 +1,13 @@
+{
+  "/_not-found/page": "/_not-found",
+  "/favicon.ico/route": "/favicon.ico",
+  "/about/page": "/about",
+  "/contact/page": "/contact",
+  "/bootstrap/page": "/bootstrap",
+  "/mern/page": "/mern",
+  "/tailwindcss/page": "/tailwindcss",
+  "/mywork/page": "/mywork",
+  "/wordpress/page": "/wordpress",
+  "/page": "/",
+  "/wordpress1/page": "/wordpress1"
+}
